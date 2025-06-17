@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I'm a Data Analyst passionate about uncovering i
 - 📍 Based in: Nigeria
 - 🧠 Always learning and building!
   
-📬 Contact me: onwuzirikeprosper@email.com | [LinkedIn](http://linkedin.com/in/onwuzirike-prosper-55897b261)
+📬 Contact me: onwuzirikeprosper@gmail.com | [LinkedIn](http://linkedin.com/in/onwuzirike-prosper-55897b261)
 
 ## 📁 My Featured Projects
 
